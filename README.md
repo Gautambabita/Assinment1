@@ -1,1 +1,1 @@
-# Assinment1
+web-technology-assinments
